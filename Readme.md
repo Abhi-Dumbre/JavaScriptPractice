@@ -15,3 +15,9 @@ Push Local repository code to remote repo,
 
 Get latest code from remote repo to local repo,
 - git pull origin <branch name>
+
+check commit logs
+- git log
+
+Revert back to prevoius commit
+- git reset -hard <prevoius commit id>
